@@ -1,0 +1,1 @@
+This repository contains a Python program demonstrating a common error: RecursionError in recursive functions. The factorial function is implemented recursively, and when a negative number is passed as input, it leads to infinite recursion and eventually a RecursionError. The solution demonstrates how to handle this edge case to avoid the error.
